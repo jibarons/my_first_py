@@ -1,0 +1,12 @@
+
+python.exe -m pip install --upgrade pip
+
+pip install xlrd
+pip install openpyxl
+pip install numpy
+pip install pandas
+pip install nbconvert
+
+
+
+
